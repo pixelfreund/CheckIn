@@ -13,12 +13,12 @@
 10. **Welche drei Gegenstände würdest du auf eine einsame Insel mitnehmen, und warum?**
 11. **Wenn du einen Tag mit jemandem tauschen könntest, lebend oder tot, real oder fiktiv, wer wäre das?**
 12. **Was wäre deine Idee für eine Erfindung, die die Welt verbessern könnte?**
-13. 14. **Welches Gericht repräsentiert am besten deine Persönlichkeit?**
+13. **Welches Gericht repräsentiert am besten deine Persönlichkeit?**
 15. **Wenn du eine Band gründen würdest, wie würde sie heißen und welche Art von Musik würdet ihr spielen?**
-16. 18. **Welches Buch, Film oder Spiel hat dich am meisten beeinflusst, und auf welche Weise?**
+16. **Welches Buch, Film oder Spiel hat dich am meisten beeinflusst, und auf welche Weise?**
 19. **Wenn du mit einem Tier kommunizieren könntest, welches wäre es und was würdest du fragen?**
 20.  **Wenn du einen Tag lang der CEO deines Unternehmens sein könntest, welche Veränderung würdest du als Erstes vornehmen?**
-21. 22. **Welche Fähigkeit aus der Vergangenheit (z.B. Navigation ohne Technologie, Handschrift) würdest du gerne meistern, und warum?**
+21. **Welche Fähigkeit aus der Vergangenheit (z.B. Navigation ohne Technologie, Handschrift) würdest du gerne meistern, und warum?**
 
 ### Product Questions
 
@@ -60,7 +60,6 @@
 18. **Was ist deine Lieblingserinnerung aus der Kindheit?**
 19. **Welches Lied macht dich sofort glücklich, und warum?**
 20. **Was bedeutet "Erfolg" für dich persönlich?**
-
 
 
 
